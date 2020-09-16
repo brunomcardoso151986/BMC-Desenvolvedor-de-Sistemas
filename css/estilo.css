@@ -4,11 +4,18 @@
 
 body {
     margin: 0;
+    padding: 0;
+}
+
+header {
+    display: flex;
+    height: 120px;
 }
 
 .topo {
+    display: flex;
+    justify-content: space-between;
     width: 100%;
-    height: 100px;
     margin: auto;
 }
 
@@ -16,26 +23,22 @@ body {
     width: 20%;
     height: 100px;
     float: left;
-    background-color: #EEE;
 }
 
 .menu {
     width: 80%;
     height: 100px;
     float: left;
-    background-color: #DDD;
 }
 
 .corpo {
     width: 100%;
-    background-color: #CCC;
     clear: both;
 }
 
 .rodape {
     width: 100%;
     height: 100px;
-    background-color: #DDD;
 }
 
 @media only screen and (max-width: 500px) {
