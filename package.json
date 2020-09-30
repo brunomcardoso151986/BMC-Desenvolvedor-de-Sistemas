@@ -1,0 +1,25 @@
+{
+  "name": "bmc-sites",
+  "version": "1.0.0",
+  "description": "Site que será desenvolvido como portfólio para apresentar minhas páginas web desenvolvidas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunomcardoso151986/BMC-Sites.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunomcardoso151986/BMC-Sites/issues"
+  },
+  "homepage": "https://github.com/brunomcardoso151986/BMC-Sites#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  }
+}
