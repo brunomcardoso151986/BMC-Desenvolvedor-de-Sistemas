@@ -3,7 +3,7 @@ body {
 }
 
 .corpo {
-    width: 1000px;
+    width: 900px;
     height: 300px;
     margin: auto;
     background-color: #FFFFFF;
@@ -13,10 +13,10 @@ body {
     text-align: justify;
 }
 
-@media only screen and (min-width: 800px) and (max-width: 1000px) {
+@media only screen and (max-width: 900px) {
 
     .corpo {
-        width: 800px;
+        width: 600px;
     }
 }
 
